@@ -1,0 +1,43 @@
+.stApp {
+    background: linear-gradient(315deg, #6B67DA 3%, #679DDA 38%, #67D6DA 68%);
+}
+
+.my_h1 {
+    color: black;
+    text-align: center;
+    margin: auto;
+}
+
+.my_p {
+    font-size: 24px;
+    margin: 15px;
+    padding: 5px;
+    text-align: center;
+}
+
+span.st-an {
+    background-color: chartreuse;
+    width: 25px;
+    height: 25px;
+}
+
+div.row-widget.stCheckbox{
+    margin-top: 20px;
+    margin-left: 56px;
+}
+
+p {
+    font-size: 24px;
+    text-align: left;
+    padding-top: 3px;
+    padding-left: 15px;
+}
+
+div.st-af {
+    width: 85%;
+    height: 50px;
+    margin: auto;
+}
+input.st-av.st-ck {
+    font-size: 24px;
+}
