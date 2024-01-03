@@ -2,6 +2,7 @@ import streamlit as st
 import functions
 from PIL import Image
 
+
 def add_todo():
     todo = st.session_state['new_todo'] + '\n'
     todos.append(todo)
